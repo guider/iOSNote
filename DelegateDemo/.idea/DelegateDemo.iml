@@ -2,12 +2,18 @@
 <module type="CIDR_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/DelegateDemo/ViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/README.md" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DelegateDemo/Assets.xcassets" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DelegateDemo/AppDelegate.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DelegateDemo/main.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DelegateDemo/Info.plist" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DelegateDemo/Assets.xcassets" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DelegateDemo/ViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DelegateDemo/Core/ViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DelegateDemo/Core/ViewController2.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DelegateDemo/Core/ViewController2.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DelegateDemo/Core/view/View.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DelegateDemo/Core/view/View.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DelegateDemo/Core/ViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DelegateDemo/Core/ClickDelegate.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DelegateDemo/AppDelegate.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DelegateDemo/Base.lproj/LaunchScreen.storyboard" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DelegateDemo/Base.lproj/Main.storyboard" isTestSource="false" />
