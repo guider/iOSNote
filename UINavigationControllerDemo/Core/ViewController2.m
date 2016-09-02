@@ -49,6 +49,8 @@
     [super viewDidLoad];
     [self initButton];
     self.title=@"页面2";
+    self.navigationItem.backBarButtonItem = [[UIBarButtonItem alloc] init];
+    self.navigationItem.backBarButtonItem.title = @"返回";
 
 }
 
